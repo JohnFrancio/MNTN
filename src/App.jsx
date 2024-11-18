@@ -19,7 +19,7 @@ function App() {
         <Navbar/>
         <Hero/>
       </div>
-      <div className='w-[70%] m-auto flex flex-col gap-32 mt-40 md:mt-96'>
+      <div className='w-[70%] m-auto flex flex-col gap-32 mt-40 md:mt-96 overflow-hidden'>
         <One/>
         <Two/>
         <Three/>
